@@ -26,9 +26,9 @@
 
     <g font-family="Menlo, Consolas, monospace" font-weight="600" fill="#c3b5dc">
       <circle cx="48" cy="32" r="4" fill="#bc9aff"/>
-      <text x="63" y="37" font-size="15" letter-spacing="2.1">DEVELOPER PORTFOLIO</text>
+      <text x="63" y="37" font-size="15" letter-spacing="2.1">@VITALY-A-IVANOV</text>
     </g>
-    <text x="42" y="172" fill="#faf4ff" font-family="system-ui, sans-serif" font-size="108" font-weight="760" letter-spacing="-6">Vitaliy<tspan fill="#bc9aff">.</tspan></text>
+    <text x="42" y="172" fill="#faf4ff" font-family="system-ui, sans-serif" font-size="108" font-weight="760" letter-spacing="-4">Vitaliy<tspan fill="#bc9aff">.</tspan></text>
     <text x="48" y="228" fill="#c3b5dc" font-family="system-ui, sans-serif" font-size="30" font-weight="520">Software engineer</text>
 
     <g fill="#2b2140" stroke="#473961">
