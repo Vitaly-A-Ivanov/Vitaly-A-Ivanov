@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="352" viewBox="0 0 1000 352" role="img" aria-labelledby="title description">
   <title id="title">Vitaliy, software engineer</title>
-  <desc id="description">An abstract circuit diagram with a violet hub and branching paths, alongside the name Vitaliy.</desc>
+  <desc id="description">An abstract circuit diagram with a violet hub and branching paths, alongside the name Vitaliy and the labels Elixir, Phoenix, and AI automation.</desc>
   <defs>
     <linearGradient id="background" x2="100%" y2="100%" gradientUnits="objectBoundingBox">
       <stop stop-color="#fcfaff"/>
@@ -34,12 +34,12 @@
     <g fill="#f4eefd" stroke="#d2c3ea">
       <rect x="48" y="293" width="91" height="36" rx="18"/>
       <rect x="150" y="293" width="107" height="36" rx="18"/>
-      <rect x="268" y="293" width="95" height="36" rx="18"/>
+      <rect x="268" y="293" width="155" height="36" rx="18"/>
     </g>
     <g fill="#21123e" font-family="Menlo, Consolas, monospace" font-size="14" font-weight="600" letter-spacing=".6" text-anchor="middle">
       <text x="93.5" y="316">ELIXIR</text>
       <text x="203.5" y="316">PHOENIX</text>
-      <text x="315.5" y="316">PYTHON</text>
+      <text x="345.5" y="316">AI AUTOMATION</text>
     </g>
 
     <g fill="none" stroke="#d2c3ea">
